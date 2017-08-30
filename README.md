@@ -1,4 +1,4 @@
-# XenForge/XF-ReplyAlerter
+# XenForge/XFReplyAlerter
 An Addon for XenForo 2.x for show an alert box when thread is too old.
 
 _This addon is intendend only for developers and sholdn't be installed in release_

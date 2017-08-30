@@ -1,0 +1,9 @@
+{
+    "template": "core.less",
+    "description": "Less injection",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "preg_replace",
+    "find": "/\\A/S",
+    "replace": "{{ include('xenforge_replyalerter_theme.less') }}\n$0"
+}

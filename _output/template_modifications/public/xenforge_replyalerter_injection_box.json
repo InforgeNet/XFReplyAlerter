@@ -1,0 +1,9 @@
+{
+    "template": "quick_reply_macros",
+    "description": "Box injection",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "preg_replace",
+    "find": "/<div(.)*class=\"message-cell message-cell--main(.)*\"(.)*>/S",
+    "replace": "$0\n<xf:include template=\"xenforge_replyalerter_box\" />"
+}

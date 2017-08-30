@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "ReplyAlerter",
+    "description": "An alert that is shown when a thread is too much old",
+    "version_id": 1000031,
+    "version_string": "1.0.0 Alpha 1",
+    "dev": "XenForge",
+    "dev_url": "https://www.xenforge.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "fa-exclamation-triangle"
+}

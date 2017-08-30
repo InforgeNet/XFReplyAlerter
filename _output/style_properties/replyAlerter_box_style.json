@@ -1,0 +1,37 @@
+{
+    "group_name": "replyalerter",
+    "title": "Box container style",
+    "description": "Define box container style",
+    "property_type": "css",
+    "css_components": [
+        "text",
+        "background",
+        "border",
+        "border_radius",
+        "border_width_simple",
+        "border_color_simple",
+        "border_radius_simple",
+        "padding",
+        "extra"
+    ],
+    "value_type": "",
+    "value_parameters": "",
+    "depends_on": "",
+    "value_group": "",
+    "property_value": {
+        "font-size": "13px",
+        "color": "@xf-textColorDimmed",
+        "background-color": "@xf-contentAltBg",
+        "border-top-width": "3px",
+        "border-top-color": "#ff0b0b",
+        "border-right-width": "1px",
+        "border-right-color": "#dadada",
+        "border-bottom-width": "1px",
+        "border-bottom-color": "#dadada",
+        "border-left-width": "1px",
+        "border-left-color": "#dadada",
+        "padding": "10px",
+        "extra": "margin-bottom:10px"
+    },
+    "display_order": 10
+}

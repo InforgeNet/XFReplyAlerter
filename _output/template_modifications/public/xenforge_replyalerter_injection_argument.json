@@ -1,0 +1,9 @@
+{
+    "template": "quick_reply_macros",
+    "description": "Test",
+    "execution_order": 10,
+    "enabled": false,
+    "action": "preg_replace",
+    "find": "/<xf:macro name=\"body\"(.)*/S",
+    "replace": "$0\n\targ-thread=\"\""
+}

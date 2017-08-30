@@ -1,0 +1,12 @@
+{
+    "public/xenforge_replyalerter_box.html": {
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "c7ea6fb7fb9df652a34c4e75680950e7"
+    },
+    "public/xenforge_replyalerter_theme.less": {
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "7b01fcbf4f2777229569ed05217e9ef5"
+    }
+}

@@ -1,0 +1,9 @@
+<xf:if is = "{$xf.time} >= {$lastDate} + {$xf.options.replyAlerterTime} * 24 * 60 * 60"> 
+	<div class="replyalerter-box">
+			{{ phrase('xenforge_replyalerter_message', {'days': $xf.options.replyAlerterTime}) }}
+		<div class="replyalerter-checkbox">
+			<input type="checkbox" name="xenforge_replyalerter" required="true">
+			{{ phrase('xenforge_replyalerter_checkbox', {'days': $xf.options.replyAlerterTime}) }}
+		</div>
+	</div>
+</xf:if>

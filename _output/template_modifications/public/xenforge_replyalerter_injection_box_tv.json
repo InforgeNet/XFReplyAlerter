@@ -1,0 +1,9 @@
+{
+    "template": "thread_view",
+    "description": "Box injection",
+    "execution_order": 10,
+    "enabled": false,
+    "action": "str_replace",
+    "find": "<xf:ad position=\"thread_view_below_messages\" arg-thread=\"{$thread}\" />",
+    "replace": "$0\n<xf:macro name=\"bodyalert\" template=\"xenforge_replyalerter_box\" arg-threadlastupdate=\"{$thread.last_post_date}\"></xf:macro>"
+}

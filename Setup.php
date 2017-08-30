@@ -1,6 +1,6 @@
 <?php
 
-namespace XenForge\ReplyAlerter;
+namespace XenForge\XFReplyAlerter;
 
 use XF\AddOn\AbstractSetup;
 use XF\AddOn\StepRunnerInstallTrait;

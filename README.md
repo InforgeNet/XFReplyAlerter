@@ -5,7 +5,7 @@ _This addon is intendend only for developers and sholdn't be installed in releas
 
 ## How to help
 1. Fork this repo
-2. Commint and (well) comment your works
+2. Commit and (well) comment your works or fixes
 3. Pull request
 
 ## Screenshot

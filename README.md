@@ -8,6 +8,9 @@ _This addon is intendend only for developers and sholdn't be installed in releas
 2. Commint and (well) comment your works
 3. Pull request
 
+## Screenshot
+![Screenshot of ReplyAlerter](http://i.imgur.com/qIH03nv.png)
+
 ## Features
 * Show an alert
 * User must check a checkbox for confirm the action

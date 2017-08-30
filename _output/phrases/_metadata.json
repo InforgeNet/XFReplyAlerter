@@ -1,61 +1,61 @@
 {
-    "option.replyAlerterTime.txt": {
-        "global_cache": false,
-        "version_id": 1000011,
-        "version_string": "1.0.0 Alpha 1",
-        "hash": "269e2d3e78b71adb82a8cd30d457a07e"
-    },
-    "option_explain.replyAlerterTime.txt": {
-        "global_cache": false,
-        "version_id": 1000011,
-        "version_string": "1.0.0 Alpha 1",
-        "hash": "a6580e523a7224b5045e1b427c2abed6"
-    },
-    "option_group.replyalerter.txt": {
-        "global_cache": false,
-        "version_id": 1000011,
-        "version_string": "1.0.0 Alpha 1",
-        "hash": "aa86359d0fc76f48b45b1fa03af14ab2"
-    },
-    "option_group_description.replyalerter.txt": {
+    "option.xenforge_replyalerter_threshold.txt": {
         "global_cache": false,
         "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
-        "hash": "9661e025eec978a764baeb5e0bbccb69"
+        "hash": "269e2d3e78b71adb82a8cd30d457a07e"
     },
-    "style_prop.replyAlerter_box_style.txt": {
+    "option_explain.xenforge_replyalerter_threshold.txt": {
         "global_cache": false,
-        "version_id": 1000011,
+        "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
-        "hash": "c0e7898505f4bb1516d2e21e8fd6a0bc"
+        "hash": "a6580e523a7224b5045e1b427c2abed6"
     },
-    "style_prop.replyAlerter_checkbox_style.txt": {
+    "option_group.xenforge_replyalerter.txt": {
         "global_cache": false,
-        "version_id": 1000011,
-        "version_string": "1.0.0 Alpha 1",
-        "hash": "1ba3e6c849c04abc477d1676e698af0d"
-    },
-    "style_prop_desc.replyAlerter_box_style.txt": {
-        "global_cache": false,
-        "version_id": 1000011,
-        "version_string": "1.0.0 Alpha 1",
-        "hash": "2547b3bbd5a727e6b77de4af03d04b82"
-    },
-    "style_prop_desc.replyAlerter_checkbox_style.txt": {
-        "global_cache": false,
-        "version_id": 1000011,
-        "version_string": "1.0.0 Alpha 1",
-        "hash": "ab5ba96a6316842bb58a0bfe10854866"
-    },
-    "style_prop_group.replyalerter.txt": {
-        "global_cache": false,
-        "version_id": 1000011,
+        "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
         "hash": "aa86359d0fc76f48b45b1fa03af14ab2"
     },
-    "style_prop_group_desc.replyalerter.txt": {
+    "option_group_description.xenforge_replyalerter.txt": {
         "global_cache": false,
-        "version_id": 1000011,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "dd08136486d20e772d45858d66e8681a"
+    },
+    "style_prop.xenforge_replyalerter_box.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "c0e7898505f4bb1516d2e21e8fd6a0bc"
+    },
+    "style_prop.xenforge_replyalerter_checkbox.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "1ba3e6c849c04abc477d1676e698af0d"
+    },
+    "style_prop_desc.xenforge_replyalerter_box.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "2547b3bbd5a727e6b77de4af03d04b82"
+    },
+    "style_prop_desc.xenforge_replyalerter_checkbox.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "ab5ba96a6316842bb58a0bfe10854866"
+    },
+    "style_prop_group.xenforge_replyalerter.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "aa86359d0fc76f48b45b1fa03af14ab2"
+    },
+    "style_prop_group_desc.xenforge_replyalerter.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
         "hash": "fc91f5cb416d63a1793d3b1a196873bd"
     },

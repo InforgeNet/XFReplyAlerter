@@ -1,8 +1,8 @@
 {
-    "replyAlerter_box_style.json": {
-        "hash": "a782a6fbf46b9c2f66ccf5f47da6e7ce"
+    "xenforge_replyalerter_box.json": {
+        "hash": "be507accca93407c105a5160ad77a89f"
     },
-    "replyAlerter_checkbox_style.json": {
-        "hash": "d8b7bb1188da495c221f4ef284ee4a01"
+    "xenforge_replyalerter_checkbox.json": {
+        "hash": "175ae7d902d8f1b134132886c6a93622"
     }
 }

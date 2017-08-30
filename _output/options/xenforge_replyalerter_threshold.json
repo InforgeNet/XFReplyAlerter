@@ -7,6 +7,6 @@
     "validation_method": "",
     "default_value": "30",
     "relations": {
-        "replyalerter": 100
+        "xenforge_replyalerter": 100
     }
 }

@@ -1,0 +1,4 @@
+_data/
+_build/
+_releases/
+deployment-config.json

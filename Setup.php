@@ -1,25 +1,21 @@
 <?php
 
-namespace XenForge\XFReplyAlerter;
+namespace XenForge\ReplyAlerter;
 
-use XF\AddOn\AbstractSetup;
-use XF\AddOn\StepRunnerInstallTrait;
-use XF\AddOn\StepRunnerUninstallTrait;
-use XF\AddOn\StepRunnerUpgradeTrait;
-use XF\Db\Schema\Alter;
-use XF\Db\Schema\Create;
-
-class Setup extends AbstractSetup
+class Setup extends \XF\AddOn\AbstractSetup
 {
-	use StepRunnerInstallTrait;
-	use StepRunnerUpgradeTrait;
-	use StepRunnerUninstallTrait;
-	
-	public function installStep1()
+	public function install(array $stepParams = [])
 	{
+		/* nothing to do ;) */
 	}
-	
-	public function upgradeStep1()
+
+	public function upgrade(array $stepParams = [])
 	{
+		/* nothing to do ;) */
+	}
+
+	public function uninstall(array $stepParams = [])
+	{
+		/* nothing to do ;) */
 	}
 }

@@ -1,0 +1,9 @@
+{
+    "template": "quick_reply_macros",
+    "description": "Post author injection into reply",
+    "execution_order": 8,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:macro name=\"body\"",
+    "replace": "$0 arg-lastPostAuthor=\"\""
+}

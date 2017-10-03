@@ -1,0 +1,9 @@
+{
+    "template": "thread_view",
+    "description": "Post author injection into thread",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:macro template=\"quick_reply_macros\" name=\"body\"",
+    "replace": "$0 arg-lastPostAuthor=\"{$lastPost.user_id}\""
+}

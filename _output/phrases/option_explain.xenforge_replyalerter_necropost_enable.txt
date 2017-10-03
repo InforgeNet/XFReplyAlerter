@@ -1,0 +1,1 @@
+Show a popup when an user tries to reply to an old thread

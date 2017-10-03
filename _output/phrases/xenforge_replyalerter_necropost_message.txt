@@ -1,0 +1,1 @@
+<b>This thread is more than {time} days old, are you really sure you want bump it?</b>

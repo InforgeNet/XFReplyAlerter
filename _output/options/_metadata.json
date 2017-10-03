@@ -1,5 +1,20 @@
 {
-    "xenforge_replyalerter_threshold.json": {
-        "hash": "e6ac9a3d6ed4c2930f7db5bc00a42324"
+    "xenforge_replyalerter_bump_alert.json": {
+        "hash": "7f747ac71418144b36174951d53ebd3a"
+    },
+    "xenforge_replyalerter_bump_enable.json": {
+        "hash": "3e7ac574e88c37bd5f5ba5a9d734fbfc"
+    },
+    "xenforge_replyalerter_bump_merge.json": {
+        "hash": "1dda6dc7fc1d4e0b7bbaa659eeaa39b5"
+    },
+    "xenforge_replyalerter_bump_threshold.json": {
+        "hash": "413e88138fc4cbdd46bebb5d59283c5b"
+    },
+    "xenforge_replyalerter_necropost_enable.json": {
+        "hash": "3187f13c8f82aad1fb1a91756ae9e6a9"
+    },
+    "xenforge_replyalerter_necropost_threshold.json": {
+        "hash": "117a8da57dfb4e508c8627cba8566465"
     }
 }

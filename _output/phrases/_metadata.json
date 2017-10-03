@@ -1,21 +1,81 @@
 {
-    "option.xenforge_replyalerter_threshold.txt": {
+    "option.xenforge_replyalerter_bump_alert.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "71ee0e4a9f98f1253e5594ab47e47a21"
+    },
+    "option.xenforge_replyalerter_bump_enable.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "e11e989026c47fd304b635c24080447b"
+    },
+    "option.xenforge_replyalerter_bump_merge.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "1a4cb94f1eb20a3bc5d415a295c8ee7e"
+    },
+    "option.xenforge_replyalerter_bump_threshold.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "5326cb63aa2feafe8f34b5f5cf968796"
+    },
+    "option.xenforge_replyalerter_necropost_enable.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "0030124eeaa4c7fbd6180d06de15f3fa"
+    },
+    "option.xenforge_replyalerter_necropost_threshold.txt": {
         "global_cache": false,
         "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
         "hash": "269e2d3e78b71adb82a8cd30d457a07e"
     },
-    "option_explain.xenforge_replyalerter_threshold.txt": {
+    "option_explain.xenforge_replyalerter_bump_alert.txt": {
         "global_cache": false,
         "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
-        "hash": "a6580e523a7224b5045e1b427c2abed6"
+        "hash": "5e93db626df3515d33f8bc10e472b75d"
+    },
+    "option_explain.xenforge_replyalerter_bump_enable.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "dcceb0fb8fb9d565d5a9360fea84d1de"
+    },
+    "option_explain.xenforge_replyalerter_bump_merge.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "4e124001bed726284756b37dad69c592"
+    },
+    "option_explain.xenforge_replyalerter_bump_threshold.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "0092e9cb417384ea4227ec535d6f5d94"
+    },
+    "option_explain.xenforge_replyalerter_necropost_enable.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d98b8b209d4518cc14aa7d5d920c3a3b"
+    },
+    "option_explain.xenforge_replyalerter_necropost_threshold.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "1077095501bdd58ed0e949c8371494c2"
     },
     "option_group.xenforge_replyalerter.txt": {
         "global_cache": false,
         "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
-        "hash": "aa86359d0fc76f48b45b1fa03af14ab2"
+        "hash": "19c1e54fcbb46235bf353151ba8f1b4d"
     },
     "option_group_description.xenforge_replyalerter.txt": {
         "global_cache": false,
@@ -59,16 +119,28 @@
         "version_string": "1.0.0 Alpha 1",
         "hash": "fc91f5cb416d63a1793d3b1a196873bd"
     },
-    "xenforge_replyalerter_checkbox.txt": {
-        "global_cache": true,
-        "version_id": 1000011,
+    "xenforge_replyalerter_bump_checkbox.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
         "hash": "ae54b0c8c7a8040ebefdb24f493f0941"
     },
-    "xenforge_replyalerter_message.txt": {
+    "xenforge_replyalerter_bump_message.txt": {
         "global_cache": false,
-        "version_id": 1000011,
+        "version_id": 1000031,
         "version_string": "1.0.0 Alpha 1",
-        "hash": "7b335d761825aaba099d24d465b96789"
+        "hash": "35098a75d1b359ccabfc5bb6696cb66f"
+    },
+    "xenforge_replyalerter_necropost_checkbox.txt": {
+        "global_cache": true,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "ae54b0c8c7a8040ebefdb24f493f0941"
+    },
+    "xenforge_replyalerter_necropost_message.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "007715b54063c1bc45a5d71c3aa3d93e"
     }
 }

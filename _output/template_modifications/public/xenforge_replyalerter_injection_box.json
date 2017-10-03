@@ -1,7 +1,7 @@
 {
     "template": "quick_reply_macros",
     "description": "Box injection",
-    "execution_order": 10,
+    "execution_order": 20,
     "enabled": true,
     "action": "preg_replace",
     "find": "/<div(.)*class=\"message-cell message-cell--main(.)*\"(.)*>/S",

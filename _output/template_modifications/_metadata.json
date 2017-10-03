@@ -1,8 +1,14 @@
 {
-    "public/xenforge_replyalert_injection_less.json": {
+    "public/xenforge_replyalerter_injection_box.json": {
+        "hash": "f2e00289373ac5d77cf88e1bee7cdec3"
+    },
+    "public/xenforge_replyalerter_injection_less.json": {
         "hash": "944a79eea1442aa132f735eb23861ef5"
     },
-    "public/xenforge_replyalerter_injection_box.json": {
-        "hash": "1e7813036606aab7bd10eb458626474f"
+    "public/xenforge_replyalerter_injection_user_reply.json": {
+        "hash": "5e3fe3399cb0a037b86d58019efa132d"
+    },
+    "public/xenforge_replyalerter_injection_user_thread.json": {
+        "hash": "1888001bf40df82574579082cc55bb51"
     }
 }

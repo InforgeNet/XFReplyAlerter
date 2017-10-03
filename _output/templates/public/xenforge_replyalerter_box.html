@@ -1,9 +1,22 @@
-<xf:if is = "{$xf.time} >= {$lastDate} + {$xf.options.xenforge_replyalerter_threshold} * 24 * 60 * 60"> 
-	<div class="replyalerter-box">
-			{{ phrase('xenforge_replyalerter_message', {'days': $xf.options.xenforge_replyalerter_threshold}) }}
-		<div class="replyalerter-checkbox">
-			<input type="checkbox" name="xenforge_replyalerter" required="true">
-			{{ phrase('xenforge_replyalerter_checkbox', {'days': $xf.options.xenforge_replyalerter_threshold}) }}
+<xf:if is="{$xf.options.xenforge_replyalerter_bump_enable} && {$xf.options.xenforge_replyalerter_bump_alert} && {$lastPostAuthor} == {$user.user_id}">
+	<xf:if is="{$xf.time} <= {$lastDate} + {$xf.options.xenforge_replyalerter_bump_threshold} * 60 * 60"> 
+		<div class="replyalerter-box">
+			{{ phrase('xenforge_replyalerter_bump_message', {'time': $xf.options.xenforge_replyalerter_bump_threshold}) }}
+			<div class="replyalerter-checkbox">
+				<input type="checkbox" name="xenforge_replyalerter" required="true">
+				{{ phrase('xenforge_replyalerter_bump_checkbox', {'time': $xf.options.xenforge_replyalerter_bump_threshold}) }}
+			</div>
 		</div>
-	</div>
+	</xf:if>
+</xf:if>
+<xf:if is="{$xf.options.xenforge_replyalerter_necropost_enable}">
+	<xf:if is="{$xf.time} >= {$lastDate} + {$xf.options.xenforge_replyalerter_necropost_threshold} * 24 * 60 * 60"> 
+		<div class="replyalerter-box">
+			{{ phrase('xenforge_replyalerter_necropost_message', {'time': $xf.options.xenforge_replyalerter_necropost_threshold}) }}
+			<div class="replyalerter-checkbox">
+				<input type="checkbox" name="xenforge_replyalerter" required="true">
+				{{ phrase('xenforge_replyalerter_necropost_checkbox', {'time': $xf.options.xenforge_replyalerter_necropost_threshold}) }}
+			</div>
+		</div>
+	</xf:if>
 </xf:if>
